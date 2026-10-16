@@ -1,0 +1,2705 @@
+{
+  "format": "memory-postcards-exhibition",
+  "version": 1,
+  "edition": "1.0.0",
+  "name": "那些有光的日子",
+  "disclosure": "原创虚构故事。日期、地点与人物关系均为叙事设定，不代表照片中人物的真实经历或拍摄信息。",
+  "entries": [
+    {
+      "id": "demo-summer",
+      "slot": 0,
+      "image": "demo/summer.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "雨停以后，留了一间房",
+      "date": "2021-06-18",
+      "place": "湖畔，雨后的木屋",
+      "story": "我们原本只想躲一阵雨，结果在湖边坐到傍晚。木屋的门一直关着，水面却把它又开了一遍。\n\n你问，如果住在这里，每天会不会只做一件事。我说，先把湿袜子晾干。后来想起这趟旅行，最先回来的不是山，是那双挂在椅背上的袜子。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.12,
+              0.62
+            ],
+            [
+              0.21,
+              0.43
+            ],
+            [
+              0.39,
+              0.43
+            ],
+            [
+              0.5,
+              0.61
+            ],
+            [
+              0.12,
+              0.62
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.21,
+              0.43
+            ],
+            [
+              0.21,
+              0.79
+            ],
+            [
+              0.41,
+              0.79
+            ],
+            [
+              0.41,
+              0.44
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.12,
+              0.85
+            ],
+            [
+              0.25,
+              0.83
+            ],
+            [
+              0.41,
+              0.86
+            ],
+            [
+              0.56,
+              0.84
+            ],
+            [
+              0.7,
+              0.86
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-summer-margin-note",
+            "text": "rain, then this.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-summer-keepsake",
+              "kind": "tape",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-coast",
+      "slot": 1,
+      "image": "demo/coast.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "寄一小段海给你",
+      "date": "2020-08-09",
+      "place": "离岸不远的蓝",
+      "story": "我把相机放得很低，低到海面像一床被风掀起的被子。岸上的人叫我回去，饭快凉了。\n\n这张照片没有船，也没有可以指认的地方。寄给你时，信封里只放一小段海：忙完手里的事，记得抬头，慢慢吸一口气。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.08,
+              0.35
+            ],
+            [
+              0.17,
+              0.29
+            ],
+            [
+              0.26,
+              0.35
+            ],
+            [
+              0.35,
+              0.29
+            ],
+            [
+              0.44,
+              0.35
+            ],
+            [
+              0.53,
+              0.29
+            ],
+            [
+              0.62,
+              0.35
+            ],
+            [
+              0.71,
+              0.29
+            ],
+            [
+              0.8,
+              0.35
+            ],
+            [
+              0.9,
+              0.29
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.13,
+              0.62
+            ],
+            [
+              0.22,
+              0.56
+            ],
+            [
+              0.31,
+              0.62
+            ],
+            [
+              0.4,
+              0.56
+            ],
+            [
+              0.49,
+              0.62
+            ],
+            [
+              0.58,
+              0.56
+            ],
+            [
+              0.67,
+              0.62
+            ],
+            [
+              0.76,
+              0.56
+            ],
+            [
+              0.85,
+              0.62
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-coast-margin-note",
+            "text": "a little sea,\nfor later.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#496e8a",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-forest",
+      "slot": 2,
+      "image": "demo/forest.jpg",
+      "width": 800,
+      "height": 1100,
+      "title": "走到信号消失的地方",
+      "date": "2022-05-21",
+      "place": "林间，第二个弯后",
+      "story": "林子里没有想象中那么安静。鞋底踩到细枝，头顶有鸟换了三次位置。阳光落在路中央，像有人忘记关的一盏灯。\n\n走到第二个弯，手机终于没了信号。我们不再核对步数，也不问几点到。只在分岔口停下来，选那条有光的小路。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.2,
+              0.86
+            ],
+            [
+              0.29,
+              0.7
+            ],
+            [
+              0.39,
+              0.55
+            ],
+            [
+              0.5,
+              0.38
+            ],
+            [
+              0.6,
+              0.23
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.29,
+              0.7
+            ],
+            [
+              0.14,
+              0.57
+            ],
+            [
+              0.27,
+              0.58
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.39,
+              0.55
+            ],
+            [
+              0.55,
+              0.53
+            ],
+            [
+              0.46,
+              0.65
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.5,
+              0.38
+            ],
+            [
+              0.38,
+              0.26
+            ],
+            [
+              0.48,
+              0.28
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-forest-margin-note",
+            "text": "take the bright path.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-forest-keepsake",
+              "kind": "leaf",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-mountains",
+      "slot": 3,
+      "image": "demo/mountains.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "比我们早到的雪",
+      "date": "2019-10-03",
+      "place": "山谷的午后",
+      "story": "上山前带了两件外套，到了这里，两件都穿上了。远处的雪比我们早到，也会比我们晚走。午饭是被压扁的面包；我们把包装袋收好，坐着看了一会儿云。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-lake",
+      "slot": 4,
+      "image": "demo/lake.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "轮流划，轮流发呆",
+      "date": "2023-06-28",
+      "place": "木船的前排",
+      "story": "租船的人只教了两下，我们就以为自己会划了。船头绕了半圈，又回到出发的方向。岸上的人笑，我们也笑。\n\n后来约好，一人划十下，另一人负责看山。照片是轮到我发呆时拍的。那块被太阳晒暖的木板，比任何路线都好记。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.12,
+              0.6
+            ],
+            [
+              0.82,
+              0.6
+            ],
+            [
+              0.7,
+              0.81
+            ],
+            [
+              0.24,
+              0.81
+            ],
+            [
+              0.12,
+              0.6
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.44,
+              0.13
+            ],
+            [
+              0.44,
+              0.59
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.46,
+              0.15
+            ],
+            [
+              0.68,
+              0.5
+            ],
+            [
+              0.46,
+              0.5
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.13,
+              0.9
+            ],
+            [
+              0.32,
+              0.87
+            ],
+            [
+              0.56,
+              0.9
+            ],
+            [
+              0.8,
+              0.87
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-lake-margin-note",
+            "text": "ten strokes,\nthen your turn.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 25,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-road",
+      "slot": 5,
+      "image": "demo/road.jpg",
+      "width": 1000,
+      "height": 664,
+      "title": "我们只是坐了一会儿",
+      "date": "2018-09-12",
+      "place": "山脊，风很大的地方",
+      "story": "走到山脊才发现，前面还有一条山脊。大家不约而同坐下，谁也没说累。云影把山坡一块块盖住，又慢慢放开。那天没有登顶，我们仍在晚饭时讲了很久。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-alpine",
+      "slot": 6,
+      "image": "demo/alpine.jpg",
+      "width": 1000,
+      "height": 1000,
+      "title": "天黑前的那一分钟",
+      "date": "2021-09-24",
+      "place": "两座山之间的湖",
+      "story": "最后一束粉色落下来时，水面几乎不动。有人已经收起三脚架，又急忙打开。我们没有追赶那束光，只在原地等它从山顶退下去。回程的第一段路，谁都没开手电。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-meadow",
+      "slot": 7,
+      "image": "demo/meadow.jpg",
+      "width": 1400,
+      "height": 933,
+      "title": "太阳从山后探出来",
+      "date": "2022-07-02",
+      "place": "出发前的山顶",
+      "story": "为了赶日出，闹钟响了三遍。真正站到山上，却只想安静地看。太阳露出一点，冻得发僵的手忽然有了温度。早餐的橘子被压裂了，剥起来倒很方便。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-city",
+      "slot": 8,
+      "image": "demo/city.jpg",
+      "width": 800,
+      "height": 1100,
+      "title": "这次就吃门口那一家",
+      "date": "2023-11-06",
+      "place": "小店门前",
+      "story": "走到这条街时，我们已经为晚饭争论了二十分钟。门帘下面透出暖光，门口还停着一辆自行车。你说，就这家吧。\n\n店里只有几个座位。菜单看不太懂，最后指了隔壁桌的碗。面端上来的那一刻，今天所有的计划才算真正开始。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.18,
+              0.39
+            ],
+            [
+              0.8,
+              0.39
+            ],
+            [
+              0.69,
+              0.8
+            ],
+            [
+              0.31,
+              0.8
+            ],
+            [
+              0.18,
+              0.39
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.14,
+              0.33
+            ],
+            [
+              0.84,
+              0.33
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.35,
+              0.23
+            ],
+            [
+              0.31,
+              0.15
+            ],
+            [
+              0.36,
+              0.07
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.55,
+              0.23
+            ],
+            [
+              0.51,
+              0.15
+            ],
+            [
+              0.56,
+              0.07
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.32,
+              0.86
+            ],
+            [
+              0.7,
+              0.86
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-city-margin-note",
+            "text": "dinner, at last.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-temple",
+      "slot": 9,
+      "image": "demo/temple.jpg",
+      "width": 1100,
+      "height": 734,
+      "title": "脚步放轻一点",
+      "date": "2019-04-17",
+      "place": "暮色里的石板路",
+      "story": "路越走越窄，远处的塔却慢慢露了出来。前面两个人停下来整理衣袖，我们也跟着放慢脚步。天还没黑，店里的灯已经亮了。那一段路，适合小声说话。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-skyline",
+      "slot": 10,
+      "image": "demo/skyline.jpg",
+      "width": 900,
+      "height": 1100,
+      "title": "晚一点回去也可以",
+      "date": "2020-12-04",
+      "place": "雨停后的路口",
+      "story": "雨把路面洗成了深蓝色。我们站在人行道上等灯，玻璃窗里的光一格一格亮起来。车走得很慢，没有人催。回去的路明明很熟，那晚却绕了一个远一点的弯。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-sunset",
+      "slot": 11,
+      "image": "demo/sunset.jpg",
+      "width": 1100,
+      "height": 733,
+      "title": "看它一点点落下去",
+      "date": "2024-02-11",
+      "place": "面向落日的露台",
+      "story": "我们打赌太阳几分钟会消失，谁都没猜对。橙红色从云底退下去，杯子里的水也凉了。晚饭可以再等一会儿，今天剩下的这点亮，想看完。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25,
+            "color": "#b74438"
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-village",
+      "slot": 12,
+      "image": "demo/village.jpg",
+      "width": 900,
+      "height": 1100,
+      "title": "住在颜色里面",
+      "date": "2019-08-23",
+      "place": "海边小镇的转角",
+      "story": "沿着台阶往上走，每转一次弯，海就换一个方向。晾衣绳在头顶，窗台上的盆栽正在滴水。我们迷路了两次，却把买来的桃子都吃完了。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-mist",
+      "slot": 13,
+      "image": "demo/mist.jpg",
+      "width": 1100,
+      "height": 733,
+      "title": "比闹钟早醒的早晨",
+      "date": "2022-09-08",
+      "place": "有薄雾的坡地",
+      "story": "窗帘没有拉紧，天刚亮就醒了。穿着外套走出去，草地还是湿的。远处的树只剩几层淡影。等我们买完早饭回来，雾已经散了，像什么也没有发生过。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-coffee",
+      "slot": 14,
+      "image": "demo/coffee.jpg",
+      "width": 850,
+      "height": 1100,
+      "title": "第二杯，不赶时间",
+      "date": "2024-03-16",
+      "place": "靠窗的两人桌",
+      "story": "两杯咖啡先后端上来，拉花几乎一模一样。我们坐着比较了很久，最后谁也没喝到自己最满意的那杯。\n\n聊天从上个月一直聊到很久以前。第二杯不为提神，只是想再坐一会儿。离开时，窗边的植物已经换了一个方向晒太阳。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.22,
+              0.25
+            ],
+            [
+              0.62,
+              0.25
+            ],
+            [
+              0.62,
+              0.63
+            ],
+            [
+              0.55,
+              0.75
+            ],
+            [
+              0.32,
+              0.75
+            ],
+            [
+              0.22,
+              0.63
+            ],
+            [
+              0.22,
+              0.25
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.63,
+              0.31
+            ],
+            [
+              0.78,
+              0.31
+            ],
+            [
+              0.82,
+              0.41
+            ],
+            [
+              0.79,
+              0.55
+            ],
+            [
+              0.64,
+              0.57
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.12,
+              0.86
+            ],
+            [
+              0.77,
+              0.86
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-coffee-margin-note",
+            "text": "one more minute.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-cafe",
+      "slot": 15,
+      "image": "demo/cafe.jpg",
+      "width": 1100,
+      "height": 733,
+      "title": "靠窗的位置还空着",
+      "date": "2023-05-07",
+      "place": "玻璃房的圆桌",
+      "story": "本来是来等人的，后来把等待过成了一个下午。滤压壶旁边放着一只杯子，窗外的枝叶晃来晃去。人到了以后，我竟然有点舍不得立刻起身。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-table",
+      "slot": 16,
+      "image": "demo/table.jpg",
+      "width": 1000,
+      "height": 1000,
+      "title": "今晚每个人都带一道菜",
+      "date": "2021-05-29",
+      "place": "借来的长桌",
+      "story": "说好了每个人带一道菜，最后大半桌都是洗好的蔬菜。有人拎来一袋面包，才终于解决了主食。\n\n我们把碗挤在一起，边吃边讨论哪种叶子最难洗。那顿饭没有主厨，也没有菜单。收拾到最后，还剩一颗番茄；你把它装进口袋，说留给明天。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#b74438",
+          "width": 1.8,
+          "points": [
+            [
+              0.32,
+              0.37
+            ],
+            [
+              0.25,
+              0.48
+            ],
+            [
+              0.28,
+              0.7
+            ],
+            [
+              0.4,
+              0.79
+            ],
+            [
+              0.53,
+              0.73
+            ],
+            [
+              0.58,
+              0.54
+            ],
+            [
+              0.52,
+              0.39
+            ],
+            [
+              0.32,
+              0.37
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#b74438",
+          "width": 1.8,
+          "points": [
+            [
+              0.4,
+              0.39
+            ],
+            [
+              0.43,
+              0.18
+            ],
+            [
+              0.59,
+              0.12
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#b74438",
+          "width": 1.8,
+          "points": [
+            [
+              0.42,
+              0.24
+            ],
+            [
+              0.27,
+              0.16
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-table-margin-note",
+            "text": "bring what you have.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "modern",
+              "size": 30,
+              "color": "#b74438",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-table-keepsake",
+              "kind": "frame",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-palette",
+      "slot": 17,
+      "image": "demo/palette.jpg",
+      "width": 850,
+      "height": 1100,
+      "title": "那块红色擦不掉",
+      "date": "2017-07-20",
+      "place": "铺着旧报纸的桌子",
+      "story": "说好只画一个下午，颜料却沾到了第二天的指缝里。红色调得太多，索性把原先的计划全盖住。画没带回来，那支刷子倒一直留着，毛已经有点硬了。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25,
+            "color": "#b74438"
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-botanical",
+      "slot": 18,
+      "image": "demo/botanical.jpg",
+      "width": 900,
+      "height": 1100,
+      "title": "没有名字也认得你",
+      "date": "2024-06-03",
+      "place": "石墙背阴的一侧",
+      "story": "同一片绿里，竟然有这么多不同的边。我们蹲下来找最小的那一片，拍完才发现裤脚全湿了。回家查了名字，过几天又忘记；下次经过，还是能认出来。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "modern",
+            "size": 24
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-books",
+      "slot": 19,
+      "image": "demo/books.jpg",
+      "width": 1100,
+      "height": 736,
+      "title": "把那盏灯留着",
+      "date": "2020-01-12",
+      "place": "房间的东墙",
+      "story": "搬家的纸箱还没拆完，先把灯安好了。开关啪地一响，墙上就有了一小块属于自己的晚上。没有书架，也没有餐桌，我们坐在地板上吃完了第一顿饭。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "modern",
+            "size": 24
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-home",
+      "slot": 20,
+      "image": "demo/home.jpg",
+      "width": 1100,
+      "height": 731,
+      "title": "第一顿饭还没开始",
+      "date": "2020-01-13",
+      "place": "新家的厨房",
+      "story": "厨房收拾得太整齐，反倒不知道先把什么拿出来。最后只煮了一锅面，切菜的声音在空房间里响得很清楚。吃完以后，台面终于不再像样板间了。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-architecture",
+      "slot": 21,
+      "image": "demo/architecture.jpg",
+      "width": 850,
+      "height": 1100,
+      "title": "给窗边留一个座位",
+      "date": "2023-04-22",
+      "place": "还没写完的房间",
+      "story": "桌上只摆了两件小东西，椅子却试着转了好几个角度。坐下来才发现，这里的光刚好够写一封信。至于墙上挂什么，我们决定以后再说。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "modern",
+            "size": 24
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-dunes",
+      "slot": 22,
+      "image": "demo/dunes.jpg",
+      "width": 1100,
+      "height": 1650,
+      "title": "去下一处阴影里",
+      "date": "2018-10-19",
+      "place": "红色岩壁之间",
+      "story": "地图上是一条细线，眼前却是很长的一段热。路边的岩石带着红色，天像被晒浅了。我们轮流报路牌上的数字，把每一次转弯都当作新的出发。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-harbor",
+      "slot": 23,
+      "image": "demo/harbor.jpg",
+      "width": 1000,
+      "height": 1500,
+      "title": "在桥上停十秒",
+      "date": "2022-06-14",
+      "place": "两段瀑布之间",
+      "story": "走到桥中央，水声忽然从脚下传来。我们扶着栏杆站了一会儿，衣袖上落了细细的水点。下面的路还很长，但今天不急着一次走完。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Unsplash",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-street-family",
+      "slot": 24,
+      "image": "demo/curated-street-family.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "再走一个路口",
+      "date": "2018-10-07",
+      "place": "星期天的人行道",
+      "story": "小孩坚持要走在最外面，大人一次次把他叫回来。路边的店已经收了遮阳棚，三个人的脚步时快时慢。\n\n后来拐进一条更安静的街，没有发生什么值得郑重记录的事。只是每到路口，总有人停一下，等另外两个人走到身边。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.16,
+              0.75
+            ],
+            [
+              0.37,
+              0.59
+            ],
+            [
+              0.58,
+              0.42
+            ],
+            [
+              0.77,
+              0.27
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.23,
+              0.91
+            ],
+            [
+              0.45,
+              0.72
+            ],
+            [
+              0.66,
+              0.55
+            ],
+            [
+              0.88,
+              0.36
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-street-family-margin-note",
+            "text": "wait at the corner.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-cobblestone",
+      "slot": 25,
+      "image": "demo/curated-cobblestone.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "听见鞋底的声音",
+      "date": "2021-11-13",
+      "place": "石板路，下坡的一段",
+      "story": "石板凹凸不平，小孩走得比大人认真。我们轮流数车窗，也数路边还没落完的叶子。快到家时，谁都忘了自己数到了哪里。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-beach-rest",
+      "slot": 26,
+      "image": "demo/curated-beach-rest.jpg",
+      "width": 667,
+      "height": 1000,
+      "title": "今天的任务是坐着",
+      "date": "2023-08-05",
+      "place": "遮阳伞下的一小块凉",
+      "story": "东西带得比想象中多，到了海边却什么也不想拿出来。椅子陷进沙里，伞影一点点移到脚背。水壶空了以后，我们又坐了一会儿，才商量谁去买水。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-shore-play",
+      "slot": 27,
+      "image": "demo/curated-shore-play.jpg",
+      "width": 751,
+      "height": 1000,
+      "title": "浪来之前，快一点",
+      "date": "2024-07-19",
+      "place": "海水刚好没过脚背",
+      "story": "规则是浪退了往前走，浪来了往回跑。玩了十分钟，鞋子还是全湿了。我们把它们拎在手里，认真宣布今天不再比赛，却又在下一次浪来时跑了起来。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 25,
+            "color": "#b74438"
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-steam",
+      "slot": 28,
+      "image": "demo/curated-steam.jpg",
+      "width": 1000,
+      "height": 802,
+      "title": "旧照片里的慢车",
+      "date": "2016-05-01",
+      "place": "铁路边的一个下午",
+      "story": "声音先从弯道后面过来，接着才看见车头。我们站在栏杆外，看它慢慢经过。那时还不会分辨机车的名字，只记得车轮很大，汽笛把一句没说完的话整个盖住了。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-platform",
+      "slot": 29,
+      "image": "demo/curated-platform.jpg",
+      "width": 1000,
+      "height": 750,
+      "title": "九号站台，暂不出发",
+      "date": "2022-04-09",
+      "place": "站牌下面",
+      "story": "我们比发车时间早到了四十分钟。站台一半是阴影，一半落着薄薄的光。你去买水，我替你看着包。\n\n车还停在原处，远处的树也没有动。后来每次出门，还是习惯早到一点：留一段什么都不用做的时间，在真正出发之前。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.24,
+              0.13
+            ],
+            [
+              0.12,
+              0.9
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.58,
+              0.13
+            ],
+            [
+              0.78,
+              0.9
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.23,
+              0.25
+            ],
+            [
+              0.61,
+              0.25
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.2,
+              0.44
+            ],
+            [
+              0.65,
+              0.44
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.16,
+              0.68
+            ],
+            [
+              0.72,
+              0.68
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-platform-margin-note",
+            "text": "forty minutes\nof nothing to do.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "modern",
+              "size": 25,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-curated-platform-keepsake",
+              "kind": "date",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-old-station",
+      "slot": 30,
+      "image": "demo/curated-old-station.jpg",
+      "width": 667,
+      "height": 1000,
+      "title": "停在树荫里的车头",
+      "date": "2017-06-10",
+      "place": "老站台尽头",
+      "story": "那辆小火车比想象中矮，红色的底盘擦得很亮。我们绕到另一边，想看看司机坐在哪里。树影落在车身上，像一条已经停下来的路。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-autumn-journey",
+      "slot": 31,
+      "image": "demo/curated-autumn-journey.jpg",
+      "width": 667,
+      "height": 1000,
+      "title": "秋天正在转弯",
+      "date": "2021-10-26",
+      "place": "山路上，列车经过处",
+      "story": "我们没有上车，只在山路边等它转过来。黄色的树叶比时刻表准时，风一吹就落下一阵。火车走远后，山谷又安静了，只剩脚边的叶子还在动。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-camera-day",
+      "slot": 32,
+      "image": "demo/curated-camera-day.jpg",
+      "width": 1000,
+      "height": 663,
+      "title": "这次换我拍你",
+      "date": "2023-09-30",
+      "place": "一家店的门口",
+      "story": "平时总是你拿着相机。这回我说，把它给我一下。你站到门边，反而不知道手该放哪里。\n\n第一张虚了，第二张有人经过。第三张还没按下去，我们已经笑起来。后来留下的是这张：相机挡着半张脸，却一点也不妨碍认出那个下午。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.28,
+              0.28
+            ],
+            [
+              0.45,
+              0.28
+            ],
+            [
+              0.49,
+              0.17
+            ],
+            [
+              0.62,
+              0.17
+            ],
+            [
+              0.68,
+              0.28
+            ],
+            [
+              0.82,
+              0.28
+            ],
+            [
+              0.82,
+              0.76
+            ],
+            [
+              0.28,
+              0.76
+            ],
+            [
+              0.28,
+              0.28
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.49,
+              0.42
+            ],
+            [
+              0.62,
+              0.4
+            ],
+            [
+              0.7,
+              0.51
+            ],
+            [
+              0.67,
+              0.66
+            ],
+            [
+              0.53,
+              0.69
+            ],
+            [
+              0.43,
+              0.58
+            ],
+            [
+              0.49,
+              0.42
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-camera-day-margin-note",
+            "text": "one frame each.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-curated-camera-day-keepsake",
+              "kind": "frame",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-outside-camera",
+      "slot": 33,
+      "image": "demo/curated-outside-camera.jpg",
+      "width": 667,
+      "height": 1000,
+      "title": "按快门以前",
+      "date": "2023-10-01",
+      "place": "空旷的停车场边",
+      "story": "你说先别动，光正好。于是我连呼吸都放轻了。拍完才发现，最喜欢的其实是相机还举在眼前的那一刻：我们都在认真看着对方。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-city-camera",
+      "slot": 34,
+      "image": "demo/curated-city-camera.jpg",
+      "width": 667,
+      "height": 1000,
+      "title": "检查刚才那一张",
+      "date": "2024-04-20",
+      "place": "街边，树影下",
+      "story": "刚才的光已经过去了，我们还挤在小屏幕前看。你用手指挡住反光，把照片放大，又缩回去。最后说，不删了，连那一点模糊也留下。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-cat",
+      "slot": 35,
+      "image": "demo/curated-cat.jpg",
+      "width": 1000,
+      "height": 662,
+      "title": "它先认出了钥匙声",
+      "date": "2024-01-08",
+      "place": "门边的暗处",
+      "story": "开门时先看见两只亮眼睛，接着才是放在一起的前爪。它没有立刻过来，像是在确认今天为什么回来得晚。\n\n我把包放下，站着等了一会儿。最后还是我先走过去。关于那一天的记录就到这里，后面的时间都用来给它让座了。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.24,
+              0.74
+            ],
+            [
+              0.25,
+              0.25
+            ],
+            [
+              0.4,
+              0.44
+            ],
+            [
+              0.61,
+              0.43
+            ],
+            [
+              0.76,
+              0.23
+            ],
+            [
+              0.76,
+              0.73
+            ],
+            [
+              0.64,
+              0.86
+            ],
+            [
+              0.4,
+              0.86
+            ],
+            [
+              0.24,
+              0.74
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.36,
+              0.58
+            ],
+            [
+              0.42,
+              0.58
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.6,
+              0.58
+            ],
+            [
+              0.66,
+              0.58
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.49,
+              0.69
+            ],
+            [
+              0.55,
+              0.69
+            ],
+            [
+              0.52,
+              0.75
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.2,
+              0.62
+            ],
+            [
+              0.09,
+              0.58
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#756478",
+          "width": 1.8,
+          "points": [
+            [
+              0.79,
+              0.62
+            ],
+            [
+              0.91,
+              0.58
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-cat-margin-note",
+            "text": "your seat,\nas always.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#756478",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-tea",
+      "slot": 36,
+      "image": "demo/curated-tea.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "添一次热水，再聊一会儿",
+      "date": "2022-12-18",
+      "place": "茶桌，晚饭以后",
+      "story": "水落进杯子的时候，话也跟着慢下来。我们从近况聊到厨房漏水，又聊回明天的早饭。茶已经淡了，仍然舍不得收杯子。最后添的那一次热水，不为了味道，只为了让这个晚上再长一点。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-old-town",
+      "slot": 37,
+      "image": "demo/curated-old-town.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "桥那头买的橘子",
+      "date": "2019-06-26",
+      "place": "运河，第二座桥旁",
+      "story": "走过桥时买了三只橘子，装在薄薄的纸袋里。船从窗下经过，水纹把房子的颜色揉在一起。\n\n我们坐在石阶上剥橘子，皮先留在掌心，最后才丢进垃圾桶。回到住处，口袋里还有一点甜味。那天记住的方向，是沿着水走，不要急着上桥。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.12,
+              0.6
+            ],
+            [
+              0.27,
+              0.4
+            ],
+            [
+              0.48,
+              0.34
+            ],
+            [
+              0.68,
+              0.4
+            ],
+            [
+              0.84,
+              0.6
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.13,
+              0.71
+            ],
+            [
+              0.27,
+              0.51
+            ],
+            [
+              0.48,
+              0.45
+            ],
+            [
+              0.68,
+              0.51
+            ],
+            [
+              0.84,
+              0.71
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.3,
+              0.66
+            ],
+            [
+              0.3,
+              0.89
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.67,
+              0.66
+            ],
+            [
+              0.67,
+              0.89
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.8,
+          "points": [
+            [
+              0.1,
+              0.95
+            ],
+            [
+              0.3,
+              0.92
+            ],
+            [
+              0.52,
+              0.95
+            ],
+            [
+              0.73,
+              0.92
+            ],
+            [
+              0.9,
+              0.95
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-old-town-margin-note",
+            "text": "follow the water.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#496e8a",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": [
+            {
+              "id": "demo-curated-old-town-keepsake",
+              "kind": "tape",
+              "x": 0.98,
+              "y": 0.13,
+              "scale": 0.65
+            }
+          ]
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-rain-street",
+      "slot": 38,
+      "image": "demo/curated-rain-street.jpg",
+      "width": 1000,
+      "height": 663,
+      "title": "每扇窗后面",
+      "date": "2020-11-21",
+      "place": "高处的窗台",
+      "story": "站得这么高，街上的声音变得很轻。楼挨着楼，屋顶上有水箱，也有晒不到太阳的小角落。我们数了几扇亮着的窗，忽然觉得，下面的人大概也正在等晚饭。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "modern",
+            "size": 24
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-walk",
+      "slot": 39,
+      "image": "demo/curated-walk.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "把水声带回去",
+      "date": "2022-08-12",
+      "place": "瀑布前，最后一段路",
+      "story": "还没看到瀑布，衣服就先湿了。我们绕过红色的岩壁，走进一阵接一阵的水声里。人站在下面很小，说话要靠近耳边。\n\n照片拍不下那个声音。回去的路上，我们试着用嘴模仿，越学越不像，最后都笑得走不动。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.4,
+          "points": [
+            [
+              0.23,
+              0.15
+            ],
+            [
+              0.27,
+              0.45
+            ],
+            [
+              0.25,
+              0.74
+            ],
+            [
+              0.2,
+              0.89
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.4,
+          "points": [
+            [
+              0.4,
+              0.09
+            ],
+            [
+              0.39,
+              0.4
+            ],
+            [
+              0.44,
+              0.69
+            ],
+            [
+              0.42,
+              0.9
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.4,
+          "points": [
+            [
+              0.56,
+              0.16
+            ],
+            [
+              0.6,
+              0.5
+            ],
+            [
+              0.57,
+              0.72
+            ],
+            [
+              0.63,
+              0.9
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#496e8a",
+          "width": 1.4,
+          "points": [
+            [
+              0.76,
+              0.1
+            ],
+            [
+              0.72,
+              0.39
+            ],
+            [
+              0.75,
+              0.7
+            ],
+            [
+              0.8,
+              0.9
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-walk-margin-note",
+            "text": "louder than words.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 30,
+              "color": "#496e8a",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-garden",
+      "slot": 40,
+      "image": "demo/curated-garden.jpg",
+      "width": 1000,
+      "height": 563,
+      "title": "绕到花开得密的那边",
+      "date": "2024-05-11",
+      "place": "雨后的小径",
+      "story": "我们说去散步，结果在花旁边停了大半天。湿叶子碰到袖口，路面留下深一块浅一块的水迹。绕完一圈回来，出门前争论的事情已经忘得差不多了。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-reading",
+      "slot": 41,
+      "image": "demo/curated-reading.jpg",
+      "width": 1000,
+      "height": 665,
+      "title": "这一页先折起来",
+      "date": "2021-03-28",
+      "place": "下午，离窗很近",
+      "story": "书翻到这里，窗外有人喊了一声。抬头再低头，就找不到刚才读到的那一行了。\n\n我们把这页轻轻折起，去楼下走了一圈。回来以后，故事还在那里，光却已经移到了桌子的另一边。有些下午，就是这样从两页之间溜走的。",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.14,
+              0.27
+            ],
+            [
+              0.32,
+              0.24
+            ],
+            [
+              0.49,
+              0.37
+            ],
+            [
+              0.65,
+              0.25
+            ],
+            [
+              0.83,
+              0.29
+            ],
+            [
+              0.83,
+              0.78
+            ],
+            [
+              0.66,
+              0.74
+            ],
+            [
+              0.49,
+              0.84
+            ],
+            [
+              0.31,
+              0.74
+            ],
+            [
+              0.14,
+              0.78
+            ],
+            [
+              0.14,
+              0.27
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.49,
+              0.37
+            ],
+            [
+              0.49,
+              0.84
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.22,
+              0.42
+            ],
+            [
+              0.38,
+              0.48
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#222b31",
+          "width": 1.8,
+          "points": [
+            [
+              0.61,
+              0.44
+            ],
+            [
+              0.75,
+              0.42
+            ]
+          ]
+        }
+      ],
+      "editor": {
+        "version": 1,
+        "styles": {
+          "title": {
+            "font": "print",
+            "size": 27
+          },
+          "story": {
+            "font": "print",
+            "size": 16
+          }
+        },
+        "blocks": [
+          {
+            "id": "demo-curated-reading-margin-note",
+            "text": "leave a little\nlight between pages.",
+            "x": 0.08,
+            "y": 0.01,
+            "frame": {
+              "version": 1,
+              "width": 0.85,
+              "height": 0.28
+            },
+            "style": {
+              "font": "hand",
+              "size": 25,
+              "color": "#222b31",
+              "align": "left"
+            }
+          }
+        ],
+        "canvas": {
+          "version": 1,
+          "decorations": []
+        }
+      },
+      "demo": true,
+      "hero": true,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": "demo-curated-seaside",
+      "slot": 42,
+      "image": "demo/curated-seaside.jpg",
+      "width": 1000,
+      "height": 667,
+      "title": "没有安排的那一天",
+      "date": "2024-06-25",
+      "place": "树荫和海之间",
+      "story": "到了以后才发现，今天根本没做计划。我们沿着树荫走到尽头，挑了一块不烫脚的沙坐下。除了海的颜色慢慢变深，几乎什么都没变。这样也很好。",
+      "strokes": [],
+      "editor": {
+        "version": 1,
+        "styles": {},
+        "blocks": []
+      },
+      "demo": true,
+      "hero": false,
+      "source": "Pexels",
+      "createdAt": "2026-10-16T00:00:00Z",
+      "updatedAt": "2026-10-16T00:00:00Z"
+    }
+  ]
+}
